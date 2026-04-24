@@ -1,0 +1,11 @@
+# Blender autosave / backup
+*.blend1
+*.blend2
+*.blend@
+
+# Krita autosave / backup
+*.kra~
+*.kra-autosave.kra
+
+# GIMP backup
+*.xcf~
